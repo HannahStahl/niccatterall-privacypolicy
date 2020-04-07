@@ -24,6 +24,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "minimist": "1.2.2"
+    "minimist": "1.2.3"
   }
 }
